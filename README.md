@@ -1,4 +1,4 @@
-# SSH - Multiple Targets Multiple Commands Orchestrator
+# SSH Orchestrator - Multiple Targets Multiple Commands
 
 ## Table of Contents
 
